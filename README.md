@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning more about front end development.
 - 🌱 I’m currently learning HTML,CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on HTML, CSS and Javascript projects.
+- 
 - 📫 How to reach me is at wilfredkorir46@gmail.com
 
 <!---
